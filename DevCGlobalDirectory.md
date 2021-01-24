@@ -338,6 +338,17 @@
 
 <details>
   <summary>
+    <b>DevC Bydgoszcz</b>
+  </summary>
+
+  - Lead(s):
+    - [Patryk Wójcik](https://github.com/patpat666)
+    - Patryk Wójcik
+    - Facebook Group: https://www.facebook.com/groups/dev.bydgoszcz
+</details>
+
+<details>
+  <summary>
     <b>DevC Beirut</b>
   </summary>
 
